@@ -15,9 +15,9 @@ const qBank = [
   },
   {
     question:
-      "Which company did Valve cooperate with in the creation of the Vive?",
-    answers: ["HTC", "Oculus", "Google", "Razer"],
-    correct: "HTC",
+      "India's first ever national police museum will be established in which city?",
+    answers: ["Chennai", "Delhi", "Nagpur", "Kolkata"],
+    correct: "Delhi",
     questionId: "267908"
   },
   {
@@ -32,83 +32,82 @@ const qBank = [
     questionId: "333247"
   },
   {
-    question: "What is the most common surname Wales?",
-    answers: ["Jones", "Williams", "Davies", "Evans"],
-    correct: "Jones",
+    question: "Who among the following Indians has been honoured by a special Oscar?",
+    answers: ["GP Sippy", "Satyajit Ray", "Mira Nair", "Raj Kapoor"],
+    correct: "Satyajit Ray",
     questionId: "496293"
   },
   {
     question:
-      "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+      "Ramon Magsaysay awards are given in honour of former President of _________",
     answers: [
-      "Demolition",
-      "The Dream Team",
-      "The Bushwhackers",
-      "The British Bulldogs"
+      "Indonesia",
+      "Thailand",
+      "New Zealand",
+      "Philippines"
     ],
-    correct: "Demolition",
+    correct: "Philippines",
     questionId: "588909"
   },
   {
     question:
-      'What name represents the letter "M" in the NATO phonetic alphabet?',
-    answers: ["Mike", "Matthew", "Mark", "Max"],
-    correct: "Mike",
+      'Which of the following awards is also known as Alternative Nobel Prize?',
+    answers: ["Pulitzer Prize", "Right Livelihood Award", "Booker Prize", "Ramon Magsaysay Award"],
+    correct: "Right Livelihood Award",
     questionId: "648452"
   },
   {
-    question: "What is the first book of the Old Testament?",
-    answers: ["Genesis", "Exodus", "Leviticus", "Numbers"],
-    correct: "Genesis",
+    question: "The Africa fund (Action for Resisting Invasion, Colonialism and Apartheid) under India's leadership was instituted by ________",
+    answers: ["UNO", "SAARC", "NAM", "Commonwealth"],
+    correct: "NAM",
     questionId: "786649"
   },
   {
     question:
-      "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
-    answers: ["Key", "Sword", "Pen", "Cellphone"],
-    correct: "Key",
+      "Which of the following countries won the final of the triangular cricket series held in Durban in Feburary in 1997?",
+    answers: ["India", "New Zealand", "South Africa", "Zimbabwe"],
+    correct: "South Africa",
     questionId: "839754"
   },
   {
-    question:
-      "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+    question:"Where did India play its 1st ODI match?",
     answers: [
-      "Cabbage Patch Kids",
-      "Transformers",
-      "Care Bears",
-      "Rubik’s Cube"
+      "Lords",
+      "Headingley",
+      "Taunton",
+      "The Oval"
     ],
-    correct: "Cabbage Patch Kids",
+    correct: "Headingley",
     questionId: "98390"
   },
   {
-    question: "What does a funambulist walk on?",
-    answers: ["A Tight Rope", "Broken Glass", "Balls", "The Moon"],
-    correct: "A Tight Rope",
+    question: "What was the active medium used in the first working laser ever constructed?",
+    answers: ["A diamond block", "Helium-neon gas", "A ruby rod", "Carbon dioxide gas"],
+    correct: "A ruby rod",
     questionId: "1071006"
   },
   {
-    question: "In past times, what would a gentleman keep in his fob pocket?",
-    answers: ["Watch", "Money", "Keys", "Notebook"],
-    correct: "Watch",
+    question: "At Which Monument in Delhi did the British forces arrest Bahadur Shah Zafar in September 1857?",
+    answers: ["Humayun's Tomb", "Nizamuddin Dargah", "Purana Qila", "Tughlaqabad fort"],
+    correct: "Humayun's Tomb",
     questionId: "1174154"
   },
   {
-    question: "Area 51 is located in which US state?",
-    answers: ["Nevada", "Arizona", "New Mexico", "Utah"],
-    correct: "Nevada",
+    question: "'Nabhah Sparsham Deeptam',the motto of Indian Air force, is taken from which ancient work ?",
+    answers: ["Garuda Purana", "Ramayan", "Bhagwad Gita", "Mundaka Upanisad"],
+    correct: "Bhagwad Gita",
     questionId: "1226535"
   },
   {
-    question: "How would one say goodbye in Spanish?",
-    answers: ["Adiós", " Hola", "Au Revoir", "Salir"],
-    correct: "Adiós",
+    question: "Douglas Engelbert, who passed away in 2013, is credited as the inventor of which of these products?",
+    answers: ["Mobile Phone", "Mouse", "Keyboard", "Digital Camera"],
+    correct: "Mouse",
     questionId: "1310938"
   },
   {
-    question: "What is the largest organ of the human body?",
-    answers: ["Skin", "Heart", "large Intestine", "Liver"],
-    correct: "Skin",
+    question: "Who was the chairman of the Indian Calendar Reform Committee that initiated the adoption of Saka calendar as the Indian national Calendar?",
+    answers: ["Meghnad Saha", "Subrahmanyan Chandrasekhar", "Prabodh Chandra Sengupta", "Vainu Bappu"],
+    correct: "Meghnad Saha",
     questionId: "1436873"
   },
   {
