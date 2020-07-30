@@ -2,7 +2,7 @@
 
 * {
   font-family: "Raleway", sans-serif;
-  background-color: darkslategrey;
+  background-color: rgba(29, 119, 119, 0.116);
 }
 
 .container {
@@ -10,10 +10,9 @@
   width: 1024px;
   height: 800px;
   border: 5px solid rgba(178, 223, 18, 0.904);
-  box-shadow: 0px 2px 10px rgba(236, 240, 6, 0.1);
+  box-shadow: 0px 5px 20px rgba(236, 240, 6, 0.1);
   border-radius: 10px;
   padding: 10px;
-  box-sizing: border-box;
   top: 0px;
   bottom: 0px;
   left: 0px;
@@ -26,7 +25,7 @@
   background-color: rgba(0, 0, 0, 0.609);
   color: rgb(23, 153, 185);
   padding: 20px;
-  font-size: 1.8em;
+  font-size: 2em;
   border-radius: 5px solid;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
@@ -35,18 +34,18 @@
 }
 
 .question {
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-weight: bold;
   margin-bottom: 5px;
 }
 
 .questionBox {
   position: relative;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(85, 41, 41, 0.2);
   margin-top: 5px;
   padding: 15px;
   box-sizing: border-box;
-  background-color: darkslategray;
+  background-color: rgba(47, 79, 79, 0.486);
 }
 
 .answerBtn {
@@ -57,7 +56,7 @@
   margin: 10px;
   outline: none;
   border: none;
-  font-size: 1em;
+  font-size: 1.2em;
   color: rgb(231, 227, 14);
   font-weight: bold;
   border-radius: 4px;
